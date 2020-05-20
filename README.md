@@ -12,7 +12,7 @@ $ git clone https://github.com/7divs7/Brick-Breaker.git
 ```
 
 ## Output
-
+![Alt Text]()
 
 ## Author
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/divyani-panda-5a8345194/)
