@@ -6,6 +6,8 @@
 # Brick-Breaker
 An attempt at recreating a timeless classic. Knock off bricks and beat the levels.
 
+# [Play](https://7divs7.github.io/Brick-Breaker/BrickBreaker/PlayGame.html)
+
 ## Cloning
 ```bash
 $ git clone https://github.com/7divs7/Brick-Breaker.git
